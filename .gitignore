@@ -1,0 +1,5 @@
+# Downloaded GDELT Global Knowledge Graph archives (large, reproducible inputs)
+gkg_daily/
+
+# Generated market, NLP, event-calendar, and estimator outputs
+output/*.csv

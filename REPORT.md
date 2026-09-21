@@ -22,19 +22,19 @@ GKG selects the dates below mechanically. DOC headline counts reflect a bounded 
 
 | No. | Date | GKG intensity | DOC headlines | Event label |
 |---:|---|---:|---:|---|
-| 1 | 2026-03-03 | 11.85 | 250 | Israel vs Iran: Middle East conflict may not stay regional — Security expert |
+| 1 | 2026-03-03 | 11.85 | 250 | GDELT DOC headline: Israel vs Iran : Middle East conflict may not stay regional - Security expert |
 | 2 | 2026-03-04 | 11.74 | 0 | GKG-selected date; validate with saved GKG representative record |
-| 3 | 2026-03-05 | 11.61 | 250 | U.S. submarine torpedoes Iranian warship off Sri Lanka |
-| 4 | 2026-03-06 | 11.43 | 249 | Headline discusses ceasefire prospects and oil prices during the conflict |
+| 3 | 2026-03-05 | 11.61 | 250 | GDELT DOC headline: U . S . submarine TORPEDOES Iranian warship off Sri Lanka – NaturalNews . com |
+| 4 | 2026-03-06 | 11.43 | 249 | GDELT DOC headline: 美以伊冲突下的停火前景 ： 油价中期重回65 70美元区间 _ 国际原油市场 _ 黄金网 _ 中金在线 |
 | 5 | 2026-03-10 | 11.51 | 0 | GKG-selected date; validate with saved GKG representative record |
-| 6 | 2026-03-11 | 11.35 | 250 | Updates on Hormuz shipping and Iranian vessels |
+| 6 | 2026-03-11 | 11.35 | 250 | GDELT DOC headline: Iran top updates : US denies escorting oil tanks through Hormuz Strait , 16 Iranian ships sunk |
 | 7 | 2026-03-12 | 11.35 | 0 | GKG-selected date; validate with saved GKG representative record |
-| 8 | 2026-03-13 | 11.33 | 250 | U.S. and Israel sought a quick win, but failed |
-| 9 | 2026-03-17 | 11.28 | 250 | Calls for an India-brokered Iran–U.S. ceasefire |
-| 10 | 2026-03-18 | 11.37 | 250 | Iran hits Tel Aviv with cluster missiles after an assassination |
-| 11 | 2026-03-19 | 11.30 | 249 | Iran attacks energy sites despite calls for restraint |
-| 12 | 2026-03-26 | 11.15 | 250 | Reports on possible Iran talks and a prospective deal |
-| 13 | 2026-04-01 | 11.14 | 250 | Israel launches attacks on Iran and reports a Hezbollah commander killed |
+| 8 | 2026-03-13 | 11.33 | 250 | GDELT DOC headline: U . S ., Israel wanted quick win , but they failed : Mohammad Marandi |
+| 9 | 2026-03-17 | 11.28 | 250 | GDELT DOC headline: Finland President On India US Iran Ceasefire , ईरान - अमेरिका में सीजफायर कराए भारत , फिनलैंड के राष्‍ट्रपति ने दिल्ली से की अपील , बोले - हमें युद्धविराम की जरूरत - us israel iran |
+| 10 | 2026-03-18 | 11.37 | 250 | GDELT DOC headline: Iran hits Tel Aviv with cluster missiles after security chief assassination |
+| 11 | 2026-03-19 | 11.30 | 249 | GDELT DOC headline: Update : Iran Attacks Energy Sites , Defying Trump Calls for Restraint |
+| 12 | 2026-03-26 | 11.15 | 250 | GDELT DOC headline: Iran war LIVE : US rejects reports of talks in Pakistan ; Trump says Iran  afraid  to admit it wants a deal |
+| 13 | 2026-04-01 | 11.14 | 250 | GDELT DOC headline: Israel hits Iran with waves of attacks and says it killed top Hezbollah commander |
 | 14 | 2026-04-02 | 11.09 | 0 | GKG-selected date; validate with saved GKG representative record |
 | 15 | 2026-04-07 | 11.09 | 0 | GKG-selected date; validate with saved GKG representative record |
 | 16 | 2026-04-08 | 11.80 | 0 | GKG-selected date; validate with saved GKG representative record |
